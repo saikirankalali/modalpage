@@ -1,0 +1,45 @@
+:root {
+    font-size: 16px;
+}
+body {
+    margin:0;
+    padding: 0;
+    background-color:white;
+    
+}
+.container1{
+	margin: 3vw;
+	margin-bottom: 0vw; 
+    background-color:red;
+    display: flex;
+    text-align: center;
+    width: 10vw;
+    height: 10vh;
+}
+.container2 {
+    display: none; 
+    margin-top:1%;
+    margin-left: 20vw;
+    margin-right: 40vw;
+    margin-bottom:10vh; 
+    background-color:orange;
+    
+    text-align: center;
+    width: 30vw;
+    height: 30vh;
+}
+/*.row{
+	display: flex;
+	flex-direction: row;*/
+
+}
+#a{
+	font-size: 1rem;
+
+}
+#b{
+	font-size: 1rem;
+	width: 100%;
+
+}
+
